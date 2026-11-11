@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img">
+  <defs>
+    <linearGradient id="cateye" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#5A3A2A"/>
+      <stop offset="45%" stop-color="#C4A574"/>
+      <stop offset="55%" stop-color="#F3E6C8"/>
+      <stop offset="100%" stop-color="#4A2E22"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="#2A2420"/>
+  <circle cx="180" cy="200" r="220" fill="#C4A574" opacity="0.18"/>
+  <circle cx="680" cy="820" r="260" fill="#D4A5A0" opacity="0.12"/>
+  <g transform="translate(230 820) rotate(-24)">
+    <rect x="-35" y="-216" width="70" height="216" rx="35" fill="url(#cateye)" />
+    <rect x="-29" y="-208" width="50" height="60.480000000000004" rx="25" fill="#fff" opacity="0.22"/>
+    
+  </g>
+<g transform="translate(325 820) rotate(-10)">
+    <rect x="-36" y="-228" width="72" height="228" rx="36" fill="url(#cateye)" />
+    <rect x="-30" y="-220" width="52" height="63.84" rx="26" fill="#fff" opacity="0.22"/>
+    
+  </g>
+<g transform="translate(420 820) rotate(4)">
+    <rect x="-37" y="-240" width="74" height="240" rx="37" fill="url(#cateye)" />
+    <rect x="-31" y="-232" width="54" height="67.2" rx="27" fill="#fff" opacity="0.22"/>
+    
+  </g>
+<g transform="translate(515 820) rotate(18)">
+    <rect x="-36" y="-228" width="72" height="228" rx="36" fill="url(#cateye)" />
+    <rect x="-30" y="-220" width="52" height="63.84" rx="26" fill="#fff" opacity="0.22"/>
+    
+  </g>
+<g transform="translate(610 820) rotate(30)">
+    <rect x="-35" y="-216" width="70" height="216" rx="35" fill="url(#cateye)" />
+    <rect x="-29" y="-208" width="50" height="60.480000000000004" rx="25" fill="#fff" opacity="0.22"/>
+    
+  </g>
+  <text x="80" y="120" font-family="serif" font-size="28" fill="#E8D5B0" opacity="0.8">Cat-eye</text>
+  <text x="80" y="158" font-family="sans-serif" font-size="16" fill="#E8C4C0" opacity="0.75">香槟猫眼</text>
+</svg>

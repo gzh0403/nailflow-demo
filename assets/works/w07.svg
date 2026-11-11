@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img">
+  <rect width="800" height="1000" fill="#FAF6F1"/>
+  
+  <g fill="none" stroke="#2A2420" stroke-width="1.2" opacity="0.65">
+    <path d="M120 200 C180 140, 260 180, 250 260 C240 330, 160 340, 140 280 C120 220, 200 210, 280 160"/>
+    <path d="M520 120 C620 80, 720 160, 680 250 C640 340, 540 300, 560 220 C580 150, 700 200, 740 280"/>
+    <path d="M80 500 C200 420, 300 560, 420 480 C540 400, 620 560, 740 500"/>
+  </g>
+  <g fill="none" stroke="#C4A574" stroke-width="1.2">
+    <path d="M200 280 C230 250, 270 270, 260 310"/>
+    <path d="M600 200 C640 170, 700 210, 680 260"/>
+  </g>
+  <g transform="translate(250 880) rotate(-16)">
+    <rect x="-34" y="-200" width="68" height="200" rx="34" fill="#E6CDB8" />
+    <rect x="-28" y="-192" width="48" height="56.00000000000001" rx="24" fill="#fff" opacity="0.22"/>
+    
+  </g>
+<g transform="translate(338 880) rotate(-8)">
+    <rect x="-34" y="-200" width="68" height="200" rx="34" fill="#E6CDB8" />
+    <rect x="-28" y="-192" width="48" height="56.00000000000001" rx="24" fill="#fff" opacity="0.22"/>
+    
+  </g>
+<g transform="translate(426 880) rotate(0)">
+    <rect x="-34" y="-200" width="68" height="200" rx="34" fill="#E6CDB8" />
+    <rect x="-28" y="-192" width="48" height="56.00000000000001" rx="24" fill="#fff" opacity="0.22"/>
+    
+  </g>
+<g transform="translate(514 880) rotate(8)">
+    <rect x="-34" y="-200" width="68" height="200" rx="34" fill="#E6CDB8" />
+    <rect x="-28" y="-192" width="48" height="56.00000000000001" rx="24" fill="#fff" opacity="0.22"/>
+    
+  </g>
+<g transform="translate(602 880) rotate(16)">
+    <rect x="-34" y="-200" width="68" height="200" rx="34" fill="#E6CDB8" />
+    <rect x="-28" y="-192" width="48" height="56.00000000000001" rx="24" fill="#fff" opacity="0.22"/>
+    
+  </g>
+  <text x="80" y="820" font-family="serif" font-size="28" fill="#2A2420" opacity="0.55">Ink bloom</text>
+  <text x="80" y="858" font-family="sans-serif" font-size="16" fill="#5C534C" opacity="0.7">墨线裸粉</text>
+
+</svg>

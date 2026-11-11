@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img">
+  <defs>
+    <linearGradient id="aurora" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#E8C4C0"/>
+      <stop offset="40%" stop-color="#C5B0C8"/>
+      <stop offset="70%" stop-color="#B7C4B2"/>
+      <stop offset="100%" stop-color="#C4A574"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="#F3EEF2"/>
+  <path d="M-20 700 C160 500, 280 820, 420 560 C560 300, 700 700, 860 420 L860 0 L0 0 Z" fill="#EDE4F0" opacity="0.65"/>
+  <g transform="translate(250 810) rotate(-20)">
+    <rect x="-38" y="-230" width="76" height="230" rx="38" fill="url(#aurora)" />
+    <rect x="-32" y="-222" width="56" height="64.4" rx="28" fill="#fff" opacity="0.22"/>
+    
+  </g>
+<g transform="translate(340 810) rotate(-10)">
+    <rect x="-38" y="-240" width="76" height="240" rx="38" fill="url(#aurora)" />
+    <rect x="-32" y="-232" width="56" height="67.2" rx="28" fill="#fff" opacity="0.22"/>
+    
+  </g>
+<g transform="translate(430 810) rotate(0)">
+    <rect x="-38" y="-250" width="76" height="250" rx="38" fill="url(#aurora)" />
+    <rect x="-32" y="-242" width="56" height="70" rx="28" fill="#fff" opacity="0.22"/>
+    
+  </g>
+<g transform="translate(520 810) rotate(10)">
+    <rect x="-38" y="-240" width="76" height="240" rx="38" fill="url(#aurora)" />
+    <rect x="-32" y="-232" width="56" height="67.2" rx="28" fill="#fff" opacity="0.22"/>
+    
+  </g>
+<g transform="translate(610 810) rotate(20)">
+    <rect x="-38" y="-230" width="76" height="230" rx="38" fill="url(#aurora)" />
+    <rect x="-32" y="-222" width="56" height="64.4" rx="28" fill="#fff" opacity="0.22"/>
+    
+  </g>
+  <text x="80" y="140" font-family="serif" font-size="28" fill="#2A2420" opacity="0.55">Aurora</text>
+  <text x="80" y="178" font-family="sans-serif" font-size="16" fill="#5C534C" opacity="0.7">极光晕染</text>
+</svg>

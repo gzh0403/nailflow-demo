@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img">
+  <rect width="800" height="1000" fill="#F3E8E4"/>
+  
+  <circle cx="400" cy="420" r="260" fill="#FAF6F1" opacity="0.7"/>
+  <g transform="translate(400 720) rotate(0)">
+    <rect x="-55" y="-320" width="110" height="320" rx="55" fill="#C97B7B" />
+    <rect x="-49" y="-312" width="90" height="89.60000000000001" rx="45" fill="#fff" opacity="0.22"/>
+    
+    <path d="M-20 -260 C-40 -200, 10 -180, 8 -130 C 30 -170, 40 -220, 10 -270 Z" fill="#E8C4C0"/>
+    <path d="M-8 -200 C-30 -160, 20 -140, 4 -90" fill="none" stroke="#FAF6F1" stroke-width="2" opacity="0.8"/>
+    <circle cx="6" cy="-210" r="8" fill="#C4A574"/>
+  
+  </g>
+  <g transform="translate(400 380)" fill="none" stroke="#C4A574" stroke-width="1.4" opacity="0.7">
+    <ellipse cx="0" cy="0" rx="70" ry="28" transform="rotate(0)"/>
+    <ellipse cx="0" cy="0" rx="70" ry="28" transform="rotate(45)"/>
+    <ellipse cx="0" cy="0" rx="70" ry="28" transform="rotate(90)"/>
+    <ellipse cx="0" cy="0" rx="70" ry="28" transform="rotate(135)"/>
+    <circle cx="0" cy="0" r="12" fill="#D4A5A0" stroke="none"/>
+  </g>
+  <g transform="translate(250 260)" fill="#E8C4C0" opacity="0.8">
+    <circle cx="0" cy="-18" r="16"/><circle cx="16" cy="8" r="16"/><circle cx="-16" cy="8" r="16"/>
+  </g>
+  <g transform="translate(560 240)" fill="#D4A5A0" opacity="0.7">
+    <circle cx="0" cy="-14" r="12"/><circle cx="12" cy="7" r="12"/><circle cx="-12" cy="7" r="12"/>
+  </g>
+  <text x="80" y="900" font-family="serif" font-size="28" fill="#2A2420" opacity="0.55">Peony</text>
+  <text x="80" y="938" font-family="sans-serif" font-size="16" fill="#5C534C" opacity="0.7">牡丹造型</text>
+
+</svg>

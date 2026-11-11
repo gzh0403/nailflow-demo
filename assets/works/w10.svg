@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img">
+  <rect width="800" height="1000" fill="#F3EBE4"/>
+  
+  <g transform="translate(0 40)">
+    
+    <ellipse cx="200" cy="500" rx="170" ry="110" fill="#FAF6F1"/>
+    <path d="M60 500 C120 430, 170 410, 200 410 C230 410, 280 430, 340 500" fill="none" stroke="#2A2420" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M70 498 Q62.5 481.2 45 470" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M87.33333333333333 498 Q80.83333333333333 475.96062539139245 65.66666666666666 461.2677089856541" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M104.66666666666666 498 Q99.16666666666666 470.95023659448987 86.33333333333333 452.91706099081637" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M122 498 Q117.5 466.3878116422297 107 445.3130194037161" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M139.33333333333331 498 Q135.83333333333331 462.47275039796966 127.66666666666664 438.78791732994944" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M156.66666666666666 498 Q154.16666666666666 459.37615982463217 148.33333333333331 433.6269330410536" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M174 498 Q172.5 457.2333757893621 169 430.05562631560355" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M191.33333333333331 498 Q190.83333333333331 456.1380482367195 189.66666666666666 428.23008039453254" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M208.66666666666666 498 Q209.16666666666666 456.1380482367195 210.33333333333331 428.2300803945325" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M226 498 Q227.5 457.2333757893621 231 430.05562631560355" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M243.33333333333331 498 Q245.83333333333331 459.37615982463217 251.66666666666663 433.6269330410536" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M260.66666666666663 498 Q264.16666666666663 462.47275039796966 272.3333333333333 438.78791732994944" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M278 498 Q282.5 466.3878116422297 293 445.3130194037161" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M295.33333333333337 498 Q300.83333333333337 470.95023659448987 313.6666666666667 452.91706099081637" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M312.66666666666663 498 Q319.16666666666663 475.96062539139245 334.3333333333333 461.2677089856541" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M330 498 Q337.5 481.2 355 470" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+    <path d="M100 505 C180 545, 220 545, 300 505" fill="none" stroke="#D4A5A0" stroke-width="6" stroke-linecap="round" opacity="0.35"/>
+  
+    
+    <ellipse cx="600" cy="500" rx="170" ry="110" fill="#FAF6F1"/>
+    <path d="M460 500 C520 430, 570 410, 600 410 C630 410, 680 430, 740 500" fill="none" stroke="#2A2420" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M470 498 Q462.5 481.2 445 470" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M487.3333333333333 498 Q480.8333333333333 475.96062539139245 465.66666666666663 461.2677089856541" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M504.6666666666667 498 Q499.1666666666667 470.95023659448987 486.33333333333337 452.91706099081637" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M522 498 Q517.5 466.3878116422297 507 445.3130194037161" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M539.3333333333334 498 Q535.8333333333334 462.47275039796966 527.6666666666667 438.78791732994944" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M556.6666666666666 498 Q554.1666666666666 459.37615982463217 548.3333333333333 433.6269330410536" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M574 498 Q572.5 457.2333757893621 569 430.05562631560355" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M591.3333333333334 498 Q590.8333333333334 456.1380482367195 589.6666666666667 428.23008039453254" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M608.6666666666666 498 Q609.1666666666666 456.1380482367195 610.3333333333333 428.2300803945325" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M626 498 Q627.5 457.2333757893621 631 430.05562631560355" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M643.3333333333333 498 Q645.8333333333333 459.37615982463217 651.6666666666666 433.6269330410536" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M660.6666666666666 498 Q664.1666666666666 462.47275039796966 672.3333333333333 438.78791732994944" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M678 498 Q682.5 466.3878116422297 693 445.3130194037161" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M695.3333333333334 498 Q700.8333333333334 470.95023659448987 713.6666666666667 452.91706099081637" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M712.6666666666666 498 Q719.1666666666666 475.96062539139245 734.3333333333333 461.2677089856541" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+<path d="M730 498 Q737.5 481.2 755 470" fill="none" stroke="#2A2420" stroke-width="1.8" stroke-linecap="round" opacity="0.88"/>
+    <path d="M500 505 C580 545, 620 545, 700 505" fill="none" stroke="#D4A5A0" stroke-width="6" stroke-linecap="round" opacity="0.35"/>
+  
+  </g>
+  <text x="80" y="160" font-family="serif" font-size="28" fill="#2A2420" opacity="0.55">Twin curve</text>
+  <text x="80" y="198" font-family="sans-serif" font-size="16" fill="#5C534C" opacity="0.7">对称柔睫</text>
+
+</svg>
